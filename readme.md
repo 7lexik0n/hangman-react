@@ -3,6 +3,7 @@
 - [React](https://reactjs.org/)
 - [React Material UI](https://mui.com/)
 - [React Router](https://reactrouter.com/)
+
 Проект собран с помощью [Webpack](https://webpack.js.org/). Ознакомиться можно [по ссылке](https://7lexik0n.github.io/hangman-react/).
 
 ## Установка
