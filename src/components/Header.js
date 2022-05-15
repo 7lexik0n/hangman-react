@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <AppBar position="absolute">
       <Toolbar>
-        {location.pathname !== "/" && (
+        {location.pathname.match("game") && (
           <ArrowBackIcon sx={{ mr: "10px" }} onClick={() => navigate("/")} />
         )}
         <Typography variant="h5" component="h1">
